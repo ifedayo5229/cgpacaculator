@@ -1,0 +1,13 @@
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\sbscmentor\obj\Debug\netcoreapp3.1\sbscmentor.csprojAssemblyReference.cache
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\sbscmentor\obj\Debug\netcoreapp3.1\sbscmentor.AssemblyInfoInputs.cache
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\sbscmentor\obj\Debug\netcoreapp3.1\sbscmentor.AssemblyInfo.cs
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\sbscmentor\obj\Debug\netcoreapp3.1\sbscmentor.csproj.CoreCompileInputs.cache
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\sbscmentor\bin\Debug\netcoreapp3.1\sbscmentor.exe
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\sbscmentor\bin\Debug\netcoreapp3.1\sbscmentor.deps.json
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\sbscmentor\bin\Debug\netcoreapp3.1\sbscmentor.runtimeconfig.json
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\sbscmentor\bin\Debug\netcoreapp3.1\sbscmentor.runtimeconfig.dev.json
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\sbscmentor\bin\Debug\netcoreapp3.1\sbscmentor.dll
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\sbscmentor\bin\Debug\netcoreapp3.1\sbscmentor.pdb
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\sbscmentor\obj\Debug\netcoreapp3.1\sbscmentor.dll
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\sbscmentor\obj\Debug\netcoreapp3.1\sbscmentor.pdb
+C:\Users\AdemodiSeun\Desktop\c# Classes sbsc\sbscmentor\obj\Debug\netcoreapp3.1\sbscmentor.genruntimeconfig.cache
