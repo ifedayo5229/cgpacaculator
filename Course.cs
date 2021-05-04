@@ -14,7 +14,7 @@ namespace sbscmentor
         {
             this.CourseCode = code;
             this.CourseScore = score;
-            this.NumberOfUnits = NumberOfUnits;
+            this.NumberOfUnits = numberOfUnits;
         }
     }
 }

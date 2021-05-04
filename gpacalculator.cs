@@ -50,10 +50,10 @@ namespace sbscmentor
                 }
 
                 value = course.NumberOfUnits;
-                qualityPoint = totalUnit*qualityPoint;
-                 newValue = qualityPoint+newValue;
-                 totalUnit += course.NumberOfUnits;
-                 Console.WriteLine($"{course.CourseCode}                 {course.CourseScore}                    {course.NumberOfUnits}");
+                qualityPoint = value * qualityPoint;
+                newValue = qualityPoint+ newValue;
+                totalUnit += course.NumberOfUnits;
+                Console.WriteLine($"{course.CourseCode}                 {course.CourseScore}                    {course.NumberOfUnits}");
 
 
             }

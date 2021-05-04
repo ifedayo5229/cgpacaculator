@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 
 namespace sbscmentor
@@ -78,14 +78,20 @@ namespace sbscmentor
                 }
                 while (menu.getCurrentStage() == 3)
                 {
-                    // // we want to calculate grade points for all the courses that have been added
-                    // Console.Write("in third stage");
-                    // break;
                   var ListofCourses = appDb.getAllCourses();
-                  gpacalculator.calculategpa(ListofCourses.ToList());
+                  if(ListofCourses.Any())
+                  {
+                    gpacalculator.calculategpa(ListofCourses.ToList());
+                  }
+                  else
+                  {
+                      Console.WriteLine("Please we do not have a grade to proceed with, Please go back and enter a grade thank you");
+                      menu.setCurrentStage(1); 
+                  }
                  break;
             
                 }
+                menu.setCurrentStage(1);
             }
         }
     }
